@@ -6,7 +6,7 @@ The app has 3 rounds that builds off of one another. It can be played with up to
 ## Getting Started
 
 This application is hosted statically, but in order to run the project on your local machine, 
-see [Running React Application](insert link here)
+see [Running React Application](https://github.com/khairston/ride-the-bus/blob/master/REACT_README.md)
 
 ## Built With
 
